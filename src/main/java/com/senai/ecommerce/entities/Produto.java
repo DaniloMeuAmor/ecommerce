@@ -21,7 +21,7 @@ public class Produto {
 	public Produto(Long id, String nome, String descricao, Double preco, String imgUrl)
 	
 	{
-		super();
+	
 		this.id = id;
 		this.nome = nome;
 		this.descricao = descricao;
